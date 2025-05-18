@@ -58,8 +58,11 @@ endmodule
 ~~~
 */
 **RTL LOGIC FOR SISO Shift Register**
+
 ![exp10](https://github.com/user-attachments/assets/fceb9cab-6739-4c4c-b32d-eda376993636)
 **TIMING DIGRAMS FOR SISO Shift Register**
+
 ![Screenshot (118)](https://github.com/user-attachments/assets/b6f48c93-949e-4522-ae7b-3efe257afda7)
 **RESULTS**
+
 Thus,SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
